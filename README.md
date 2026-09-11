@@ -1,5 +1,5 @@
-﻿> 馃寪 **鍦ㄧ嚎鏂囨。闀滃儚绔?*锛歔https://bilibili-api-collect-docs.vercel.app](https://bilibili-api-collect-docs.vercel.app)
-> 馃挕 *宸查€氳繃 Vercel 閮ㄧ讲鍏ㄩ噺缁濈増鏂囨。闀滃儚锛屾敮鎸佸叏绔欎腑鑻辨枃鎼滅储涓庡绔嚜閫傚簲娴忚銆?
+> 🌐 **在线文档镜像站**：[https://bilibili-api-collect-docs.vercel.app](https://bilibili-api-collect-docs.vercel.app)
+> 💡 *已通过 Vercel 部署全量绝版文档镜像，支持全站中英文搜索与多端自适应浏览。*
 
 ---
 
