@@ -1,11 +1,11 @@
-import { defineUserConfig } from "vuepress";
+﻿import { defineUserConfig } from "vuepress";
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defaultTheme } from "@vuepress/theme-default";
 import markdownItTaskLists from "markdown-it-task-lists";
 import { searchPlugin } from "@vuepress/plugin-search";
 import { shikiPlugin } from '@vuepress/plugin-shiki'
 
-const base = "/bilibili-API-collect/";
+const base = process.env.BASE || "/";
 
 export default defineUserConfig({
   bundler: viteBundler(),
